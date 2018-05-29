@@ -35,7 +35,7 @@
   "Open IDE" button on the Lab's header.
 
   <img
-  src="https://learn-co-videos.s3.amazonaws.com/learn-co-orientation/learn-sample-header.png"
+  src="https://i.imgur.com/d7pDK4u.png"
   style="display: block"/>
 
   <br>
